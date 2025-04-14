@@ -55,9 +55,3 @@
     International Research Journal of Modernization in Engineering Technology and Science.  
     [DOI: 10.56726/irjmets36402](https://doi.org/10.56726/irjmets36402)
 
----
-
-## 📫 Contact Me
-- 📧 **Email**: suryaloveit@gmail.com  
-- 🌐 **LinkedIn**: [Suryansh Patel](https://linkedin.com/in/suryansh-max)  
-- 💻 **GitHub**: [Suryansh-Max](https://github.com/suryansh-max)
