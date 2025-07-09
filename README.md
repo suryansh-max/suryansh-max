@@ -5,8 +5,7 @@
 ---
 
 ## 👨‍🎓 About Me
-🔹 **Master’s Student @ UMKC** (GPA: 4.0/4.0)  
-🔹 **Ex-Infosys Digital Specialist Engineer**  
+🔹 **Master’s Degree Holder @ UMKC** (GPA: 4.0/4.0)  
 🔹 Passionate about **Data Science**, **Machine Learning**, and **Software Engineering**  
 🔹 Actively engaged in research projects using state-of-the-art technology and tools  
 🔹 Experienced in developing full-stack applications and deploying ML models in production environments.
@@ -45,6 +44,7 @@
 
 ## 🏆 Certifications & Achievements
 
+- 🎖️ **2025 Data Science Hackthon Winner**, UMKC
 - 🎖️ **Certified Java Developer**, Infosys  
 - 🎖️ **Certified Spring Boot Professional**, Infosys  
 - 🥉 **3rd Prize for Best Data Science Project of 2022**, LNCT  
